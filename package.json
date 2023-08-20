@@ -159,7 +159,7 @@
     "json-stringify-pretty-compact": "2.0.0",
     "json5": "2.2.0",
     "linkify-markdown": "1.0.0",
-    "luxon": "1.26.0",
+    "luxon": "1.28.1",
     "markdown-it": "12.0.4",
     "markdown-table": "2.0.0",
     "minimatch": "3.0.4",
